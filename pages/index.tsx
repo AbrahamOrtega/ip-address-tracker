@@ -102,7 +102,9 @@ export default function Home() {
         />
       </div>
 
-      <h1 className="mt-8 text-[32px] font-[500] z-20">IP Address Tracker</h1>
+      <h1 className="mt-8 text-[32px] font-[500] z-20 text-white">
+        IP Address Tracker
+      </h1>
       <div className="flex w-full justify-center z-20">
         <input
           className={`w-full lg:w-[500px] h-[56px] text-[18px] rounded-l-xl p-4 outline-none text-black ${
